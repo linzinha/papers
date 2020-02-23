@@ -4,4 +4,6 @@ Abstract: 300 Children ages 10-14 were interviewed and their emotional wellbeing
 
 common/references.txt
 
+Figures Section
+
 Results: Don't name your kid Ivonna if your last name is Tinkle
